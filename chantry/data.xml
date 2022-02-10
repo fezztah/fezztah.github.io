@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Chantry</title>
+	<release-date>17 September, 2018</release-date>
+	<website>http://revealvr.eu/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PlayStation 4, PSVR Required</name>
+			<link>TBC</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>EUR</currency>
+			<value>€5.50</value>
+		</price>
+		<price>
+			<currency>GBP</currency>
+			<value>£4.99</value>
+		</price>
+	</prices>
+
+	<description> Nearly two hundred years ago, an English doctor drew his final breath inside his country home. It was not yet clear how history would remember him. For this was a man who had deliberately infected his patients with diseases, and whose pastimes included feeding human blood to his plants. The great enemy of the British Empire, Napoleon Bonaparte, could be counted amongst his admirers. Thomas Jefferson asserted with presidential vigour that this was one doctor that "mankind can never forget". But we have forgotten. Explore a beautifully reconstructed 18th century Georgian house in virtual reality as you rediscover the story of one of the world's most terrifying diseases through the words of real historical characters.
+	</description>
+	
+	<history> REVEAL is a European research project that is pioneering the use of PlayStation®VR for innovative educational applications which engage world-wide audiences in the Europe’s rich historical and scientific heritage. REVEAL will create technologies which support game studios to quickly and cheaply develop Educational Environmental Narrative games for PlayStation VR. The project will develop two commercial case study applications for the PlayStation®Store and use the experience to map out the design and business processes for facilitating future inter-industry collaborations between the museum, education and videogame sectors. The REVEAL project is funded under the European’s Union’s Horizon 2020 Research and Innovation Programme, and receives external project support from Sony Interactive Entertainment under the PlayStation First Academic Development Programme. “PlayStation” is a registered trademark of Sony Interactive Entertainment Inc. “PS4” and PlayStation VR are trademarks of the same company. All titles, content, publisher names, trademarks, artwork, and associated imagery are trademarks and/or copyright material of their respective owners. All rights reserved.
+	</history>
+
+	<features>
+	    <feature>An immersive historical experience.</feature>
+	    <feature>An incredible forgotten story.</feature>
+		<feature>Authentically reconstructed historical building.</feature>
+		<feature>Real historical characters speaking the words they left behind.</feature>
+		
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>qKlyS1r-x34</youtube>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>Mz1oyMQsR8o</youtube>
+		</trailer>
+	</trailers>
+	
+</game>

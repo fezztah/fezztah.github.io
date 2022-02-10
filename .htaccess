@@ -1,0 +1,7 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bounceback\.steelminions\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.bounceback\.steelminions\.com$
+RewriteRule ^/?$ "http\:\/\/www\.steelminions\.com\/press\/sheet\.php\?p\=bounceback" [R=301,L]

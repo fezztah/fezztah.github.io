@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>PieceFall</title>
+	<release-date>EU: 31 July, 2018</release-date>
+	<release-date>US: TBC</release-date>
+	<website>http://www.steelminions.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PlayStation 4 / PSVR (digital)</name>
+			<link>https://store.playstation.com/#!/en-gb/games/piecefall/cid=EP4325-CUSA02715_00-ASPECT2PIECEFALL</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Pounds Sterling</currency>
+			<value>£3.20</value>
+		</price>
+		<price>
+			<currency>US Dollars</currency>
+			<value>$ TBC</value>
+		</price>
+	</prices>
+
+	<description>
+		The floating islands of PieceFall were once the site of ancient spiritual monuments dedicated to tranquillity. Since then, the islands have fallen out of balance, and you must rebuild the land piece by piece to restore the monuments. PieceFall is a geometric puzzle game, set in an abstract floating world. Complete puzzles to build structures and enhance your surroundings. Unlock bonuses, earn stars, and maximise your score! Are you ready to accept the challenge, and restore harmony to the islands? 
+	</description>
+	
+	<histories>
+		<history>
+			<header>Origins</header>
+			<text>
+				The original game concept was released for PS4 in 2015, and now a small team of graduate students have successfully adapted the game to work on PlayStation VR.
+			</text>
+		</history>
+		<history>
+			<header>Technology</header>
+			<text>
+				PieceFall is written entirely in C++, using Sony’s PhyreEngine and utilising Firelight Technology’s FMod sound system.
+			</text>
+		</history>
+		<history>
+			<header>Awards</header>
+			<text>
+				The original game won the Game Republic student showcase for Best Team and was nominated for the a TIGA industry award for Best Game with a Purpose.  The PieceFall VR team who published the game went on to work at Sumo Digital in Sheffield, Wushu Studios and Firefly in Liverpool. 
+			</text>
+		</history>
+	</histories>
+
+	<features>
+		<feature>Tetramino puzzle game in 3D.</feature>
+		<feature>3+ PEGI rating with gameplay for all ages.</feature>
+		<feature>48 puzzles over 4 level themes.</feature>
+		<feature>Exclusive to PlayStation 4.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>2LtihJ6Cqpo</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Rockstar award for Best Team at the Game Republic Student Showcase 2014.</description>
+			<info>Huddersfield, 3rd June 2014</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>We’ve worked very closely with the Steel Minions studio to help them bring this game to market. The benefits of studying on an industry-accredited course are made obvious by the skills and talents of these students. In recent years, as indie gaming has exploded, PlayStation First has worked hard to narrow the gap between student teams and indie studios. PieceFall is a true testament to our investment.</description>
+			<name>Maria Stukoff</name>
+			<website>http://www.worldwidestudios.net/about-us/playstation-first</website>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>https://soundcloud.com/commonuncommonj/sets/piecefall-ost</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>https://blog.eu.playstation.com/2015/07/09/introducing-piecefall-the-first-ps4-student-game-from-the-playstationfirst-programme/</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Muneer Fergiani</person>
+			<role>Lead Developer, Steel Minions</role>
+		</credit>
+	</credits>
+</game>

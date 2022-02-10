@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Monty Mole: Revenge of the Mole</title>
+	<release-date>23rd January, 2013</release-date>
+	<website>http://www.gamesbritannia.com</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC</name>
+			<link>http://store.indiecity.com/projects/montyrevenge</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>GBP</currency>
+			<value>£0.60</value>
+		</price>
+
+	</prices>
+
+	<description>
+	Winner of the 2012 Games Britannia Game Design Competition to design a new Monty Mole game. The competition was judged by the team responsible for the original 1984 game by Gremlin Graphics, including Peter Harrop, Tony Crowther, Ben Dauglish and Ian Stewart. The winning game was created by All Saints High School in Sheffield with support from the Steel Minions Game Studio at Sheffield Hallam University and was created using Game Maker Studio. All proceeds (apart from store/card fees) will go to the Special Effect gaming charity which helps people with disabilities to enjoy videogames: http://www.specialeffect.org.uk
+	</description>
+	
+	<histories>
+		<history>
+			<header>Monty Mole</header>
+			<text>
+				The original Monty Mole game was created in 1984 by a video game company based in Sheffield called Gremlin Graphics. Monty gained national coverage on the ITV news because of a link between the game and the National Miner's strike which was happening at the time. Monty sets out to snatch a bucket of coal for his winter fire from his local South Yorkshire pit, but ends up being chased into the mine instead. He then has to battle flying pickets, mammal eating fish and coal crushers in order to get out. He eventually surfaces in a castle belonging to Arthur Scargill (the real-world leader of the coal miner’s union) and seizes the opportunity to 'topple the great man' by confronting Arthur with secret ballot papers and vote-casting spell. 
+			</text>
+		</history>
+		<history>
+			<header>Gremlin Graphics</header>
+			<text>
+				The original game was created for Gremlin by a young programmer called Peter Harrop, whose father was a coal miner. Another programmer called Tony Crowther also worked on Monty Mole along with a musician called Ben Daglish. All three helped to judge the game design competition that led to the creation of this version. Also on the judging panel was Ian Stewart. Ian founded Gremlin Graphics in 1984 by setting up a game development studio above his 'Just Micro' computer shop on Carver Street. Gremlin became Yorkshire's most prolific game software house, releasing big titles such as Zool, Premier Manager and the Actua Sports series over the following decades. Gremlin's staff went on to found companies such as Core Design, Particle Systems and Sumo Digital and many of them still work in senior positions in game companies all around the world today.
+			</text>
+		</history>
+		<history>
+			<header>Games Britannia</header>
+			<text>
+				The Games Britannia festival brings creativity and technology together, providing schools and colleges with workshops and activities led by games industry experts and academics. Started in 2011 by Brinsworth Comprehensive School, it is now run by the Computing Department at Sheffield Hallam University as part of a range of initiatives which attempt to engage schools and teachers in Computer Science. Nonetheless, programming is just one facet of the Games Britannia festival, which incorporates areas of the curriculum as diverse as English, Maths, Computing, Music and Art – all through the exciting field of videogame development.The core of the festival focuses on providing hands-on workshops aimed at school children in KS3 and KS4, and is open to local and national schools including home-schooled pupils. The festival generally also includes speaker events open to the general public, as well as activities specifically targeted at higher education students wanting to break into the games industry. The 2013 Games Britannia festival will take place between the 10th-14th June and the workshop schedule and booking details will be available from Spring 2013. Register your interest at www.gamesbritannia.com or contact Belle Fletcher (b.fletcher@shu.ac.uk) for more details.
+			</text>
+		</history>
+	</histories>
+
+	<features>
+		<feature>In aid of the Special Effect charity: http://www.specialeffect.org.uk</feature>
+		<feature>Winner of the 2012 Games Britannia School's Game Design Competition</feature>
+		<feature>10 levels of thrilling platform action above and below ground</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Competition Trailer</name>
+			<youtube>hvzA09gy3Sw</youtube>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>qyphD6-3nv4</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Winner of the Games Britannia 2012 Schools' Game Design Competition.</description>
+			<info>Magna, 6 July, 2012</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Revenge of the Mole is a fantastic addition to the classic Monty Mole series created by Sheffield’s much-loved Gremlin Graphics back in 1984. Congratulations to All Saints High School for creating such a fun and addictive game, keeping faith to Peter Harrap’s original characters but also bringing them right up-to-date for the 21st century. I hope that all the members of the winning team enjoyed the competition and I look forward to more of their creations when they hopefully pursue careers in the games industry!</description>
+			<name>Mark Hardisty, 2012 Director of the Games Britannia Festival</name>
+			<website>Blog</website>
+			<link>http://markhardisty.wordpress.com/tag/mark-hardisty/</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Original ITN News Footage from 1984</title>
+			<description>Peter Harrop being interviewed about the original Monty Mole game and its connection to the Miner's Strike.</description>
+			<link>http://tinyurl.com/aq5y6n4</link>
+		</additional>
+
+		<additional>
+			<title>Copyright Owners</title>
+			<description>The original Monty Mole game is copyright of Urbanscan Ltd. All Rights Reserved.</description>
+			<link>http://www.urbanscan.co.uk</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>All Saints High School</person>
+			<website>http://www.allsaints.sheffield.sch.uk/</website>
+			<role>Game Design, Music and Artwork</role>
+		</credit>
+		<credit>
+			<person>Seel Minions</person>
+			<website>www.steelminions.com</website>
+			<role>Rapid Prototyping</role>
+		</credit>
+		<credit>
+			<person>Ian Stewart</person>
+			<website>www.urbanscan.co.uk</website>
+			<role>Judge</role>
+		</credit>
+		<credit>
+			<person>Peter Harrop</person>
+			<role>Judge</role>
+		</credit>
+		<credit>
+			<person>Tony Crowther</person>
+			<website>http://en.wikipedia.org/wiki/Antony_Crowther</website>
+			<role>Judge</role>
+		</credit>
+		<credit>
+			<person>Ben Daglish</person>
+			<website>http://en.wikipedia.org/wiki/Ben_Daglish</website>
+			<role>Judge</role>
+		</credit>
+	</credits>
+</game>

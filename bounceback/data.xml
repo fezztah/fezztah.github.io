@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>BounceBack</title>
+	<release-date>12 September, 2012</release-date>
+	<website>http://www.steelminions.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PlayStation minis (PSP, PS3, PS Vita)</name>
+			<link>http://uk.playstation.com/psn/services/detail/item242119/minis/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Pounds Sterling</currency>
+			<value>£2.49</value>
+		</price>
+		<price>
+			<currency>EUR (Ireland)</currency>
+			<value>€2.99</value>
+		</price>
+	</prices>
+
+	<description>
+		Bounceback is a platform/puzzle game similar to classic puzzle games like Lost Vikings (or more recently Trine) which require you to use the abilities of different characters to solve puzzles that prevent you from reaching your goal. The ultimate aim of Bounceback is to return the main character home, by getting him to ‘bounce back’ all the way to the moon.
+
+		Lanos (as he is known) may appear to be a bouncy toy ball, but his origins are actually not from this planet at all… Each level contains a number of ‘Bounceable’ pickups which gradually restore Lanos’ bounce until he can launch himself right out of the current level and onto the next. A light-hearted back story unfolds as the hero encounters a range of environments and collects an entourage of friendly characters whose specialist abilities can help him in his quest. This includes Puff the balloon, Boom the explosive and Splash the water bomb along with a race of alien robots called the “Tri-hards” who can adopt the skills of any other character.
+	</description>
+	
+	<histories>
+		<history>
+			<header>Origins</header>
+			<text>
+				BounceBack was originally developed by a group of 3rd year MComp Games Software Development students as part of a group project module for their degree. Sony identified the game as having potential to become a minis title and the studio began to develop it as a commercial product in 2011. The students continued to work on the game in their 4th and final year as part of a range of different modules for their degree. This included completing a test plan and official TRC documentation as part of an assessed assignment!
+			</text>
+		</history>
+		<history>
+			<header>Technology</header>
+			<text>
+				The game and PSP engine was written from scratch by the development team using C++ (the industry standard programming language). This is an experience that is valued highly by professionals within the games industry.
+			</text>
+		</history>
+		<history>
+			<header>Awards</header>
+			<text>
+				The game won three awards at the Game Republic student showcase for Best Team, Best Gameplay and Best Technology and since then the team have gone on to get jobs and internships at Rockstar Leeds, Sumo Digital, Red Kite Games, and Distinctive Developments. 
+			</text>
+		</history>
+	</histories>
+
+	<features>
+		<feature>A charming 2D platform/puzzle game.</feature>
+		<feature>3+ PEGI rating with gameplay for all ages.</feature>
+		<feature>5 unique characters and level themes.</feature>
+		<feature>28 challenging levels.</feature>
+		<feature>Exclusively to PlayStation minis (currently UK and Ireland only).</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>o7N2viUPvTw</youtube>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>vweAeu8PYxQ</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Rockstar award for Best Team at the Game Republic Student Showcase 2012.</description>
+			<info>Bradford, 29th May 2012</info>
+		</award>
+		<award>
+			<description>Sumo-Digital award for Best Game Design at the Game Republic Student Showcase 2012.</description>
+			<info>Bradford, 29th May 2012</info>
+		</award>
+		<award>
+			<description>Four Door Lemon award for Best Technology at the Game Republic Student Showcase 2012.</description>
+			<info>Bradford, 29th May 2012</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This year’s Student Showcase was the biggest yet, with a very high standard of entries from all our educational partners. For Sheffield Hallam’s Steel Minions studio to win three first prize awards against such competition was an incredible achievement.</description>
+			<name>Jamie Sefton</name>
+			<website>www.gamerepublic.com</website>
+			<link>http://gamerepublic.net/networking-events/student-showcase-2012/</link>
+		</quote>
+		<quote>
+			<description>Extremely well done, and if it doesn’t put a smile on your face, you have no soul: 8.5/10</description>
+			<name>pspminis.com</name>
+			<website>www.pspminis.com</website>
+			<link>http://www.pspminis.com/9549/bounceback-review-bounce-me-to-the-moon/</link>
+		</quote>
+		<quote>
+			<description>An extremely well-realised puzzler [...] Working your way through the game's several dozen levels is enjoyable throughout: 7/10</description>
+			<name>Pocket Gamer</name>
+			<website>www.pocketgamer.co.uk</website>
+			<link>http://www.pocketgamer.co.uk/r/PSP/BounceBack/review.asp?c=45714</link>
+		</quote>
+
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://soundcloud.com/spincycled/sets/bounceback-ost-2012</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://www.hiddenlevel.com/</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Nick Abbott</person>
+			<role>Lead Game Designer, Music and Audio, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Victoria Hall</person>
+			<role>2D Artist, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Adam Kaye</person>
+			<role>Level Designer and Animator, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Joanna Osborne</person>
+			<role>Gameplay Programmer, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Andrea Redhead</person>
+			<role>Producer, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Thomas Sampson</person>
+			<role>Lead Technology Programmer, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Lee Taylor</person>
+			<role>Lead Gameplay Programmer, Steel Minions</role>
+		</credit>
+		<credit>
+			<person>Laurence Whaites</person>
+			<role>Tools Programmer, Steel Minions</role>
+		</credit>
+
+		<credit>
+			<person>Angrew Wiley</person>
+			<role>Lead PSP Programmer, Steel Minions</role>
+		</credit>
+	</credits>
+</game>

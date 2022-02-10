@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+	<title>Steel Minions</title>
+	<founding-date>December 9, 2010</founding-date>
+	<website>http://www.steelminions.com/</website>
+	<based-in>Sheffield, South Yorkshire</based-in>
+	
+	<press-contact>studio@steelminions.com</press-contact>
+	<phone>N/A</phone>
+	<address>
+		<line>Dept. of Computing</line>
+		<line>Cantor Building</line>
+		<line>Sheffield Hallam University</line>
+		<line>153 Arundel Street</line>
+		<line>S1 2NU</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/SteelMinions</name>
+			<link>twitter.com/SteelMinions</link>
+		</social>
+		<social>
+			<name>facebook.com/steel.minions.studio</name>
+			<link>facebook.com/steel.minions.studio</link>
+		</social>
+	</socials>
+
+	<description>	
+		Steel Minions is Sheffield Hallam University's own commercial game development studio which provides workplace simulation for students on Hallam's games degrees. We are a licenced PlayStation and mobile developer with a range of games in development.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Foundations</header>
+			<text>The Steel Minions Game Studio was created in 2010 in order to provide students on Hallam's game development degrees with "workplace simulation" within a studio environment. Our small (but perfectly formed) studio is based in Sheffield Hallam's science park, close to Sheffield train station. Students are chosen to work in the studio based on merit, and the projects that they work on are often integrated into assessments as part of their degrees. </text>
+		</history>
+		<history>
+			<header>Latest Work</header>
+			<text>We have just released our FOURTH commercial PlayStation title, which is a game called The Chantry for PlayStation VR. We were the first university studio in the WORLD release a PlayStation 4 game and we've not looked back since!</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>This is our studio logo trailer animated by James King.</name>
+			<youtube>AifquaJJvAs</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>First University studio in the UK to publish a PlayStation title.</description>
+			<info>BounceBack (PS minis), 12 September 2012</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>We're really impressed with the standard of Sheffield Hallam's students, and it's great that we can utilise their skills and talent through these placements. The games industry is a tough one to break into, so opportunities like this are key for students and graduates, as is being able to learn in an environment like the Steel Minions games studio.</description>
+			<name>Paul Porter, Studio Manager of Sumo Digital, speaking about 13 students gaining placements at Sumo Digital through the Steel Minions studio in 2011</name>
+			<website>www.sumo-digital.com</website>
+			<link>http://www.sumo-digital.com</link>
+		</quote>
+
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Sheffield Hallam University</title>
+			<description>Steel Minions is part of Sheffield Hallam University Enterprises Limited</description>
+			<link>http://www.shu.ac.uk/</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Jacob Habgood</person>
+			<website>www.hiddenlevel.com</website>
+			<role>Studio Director</role>
+		</credit>
+		<credit>
+			<person>David Moore</person>
+			<role>Technical Manager </role>
+		</credit>	
+		<credit>
+			<person>David Wilson</person>
+			<role>Art Director</role>
+		</credit>		
+		<credit>
+			<person>Mark Featherstone</person>
+			<website>www.moonpod.com</website>
+			<role>Technical Director</role>
+		</credit>		
+		<credit>
+			<person>Reuben Fleming</person>
+			<website>www.reubenfleming.co.uk</website>
+			<role>Animation Director</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Enquiries</name>
+			<mail>studio@steelminions.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/SteelMinions</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/steel.minions.studio</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>www.steelminions.com</link>
+		</contact>
+	</contacts>
+</game>
